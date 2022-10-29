@@ -17,11 +17,8 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
 * Deployed performance changes using persistent storage that reduced process time by up to 99%
 * Used GitHub to automatically run unit tests and test compatibility on Linux and Windows
     </td>
-    <td></td>
-  </tr>
-  <tr>
     <td>
-[ScheduleHub Screenshot](assets/img/schedulehub.png)
+![ScheduleHub Screenshot](assets/img/schedulehub.png)
     </td>
   </tr>
 
@@ -31,4 +28,4 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
 * Created a Jupyter Notebook that serves a guide for all students in [DS-100](https://www.bu.edu/academics/cds/courses/cds-ds-100/)
 * Explained various functions and their uses cases from Python packages such as [NumPy](https://numpy.org/) and [datascience](http://data8.org/zero-to-data-8/datascience.html)
 
-[DS100 Guide Screenshot](assets/img/DS100_guide.png)
+![DS100 Guide Screenshot](assets/img/ds-100_guide.png)
