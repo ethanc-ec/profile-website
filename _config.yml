@@ -1,8 +1,8 @@
 ---
 name: Ethan's Profile
 
-# remote_theme: pages-themes/minimal@v0.2.0
-theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal@v0.2.0
+# theme: jekyll-theme-slate
 plugins:
   - jekyll-remote-theme
   - jekyll-titles-from-headings
