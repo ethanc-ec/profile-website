@@ -9,11 +9,12 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
     <td>
       <a href="https://github.com/ethanc-ec/ScheduleHub"><h2>Boston University Course Searcher</h2></a>
       <ul>
-        <li>Created a tool that uses a text based interface to:<ul>
+        <li>Created a tool that uses a text based interface to:
+        <ul>
           <li>Check the information about a class</li>
           <li>See the Hub credits and numerical credits each class gives</li>
           <li>Check for the available sections/times for lectures and labs/discussions</li>
-        </ul</li>
+        </ul></li>
         <li>Used various packages to scrape information from Boston University’s course websites</li>
         <li>Cleaned scraped information, then sorted and stored it in a persistent storage file</li>
         <li>Deployed performance changes using persistent storage that reduced process time by up to 99%</li>
