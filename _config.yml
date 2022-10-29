@@ -1,7 +1,7 @@
 ---
 name: Ethan's Profile
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman
 # theme: jekyll-theme-slate
 plugins:
   - jekyll-remote-theme
