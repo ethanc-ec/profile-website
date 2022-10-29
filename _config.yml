@@ -1,6 +1,9 @@
 ---
 name: Ethan's Profile
 
+title: Ethan's Profile
+description: Projects and more
+
 remote_theme: pages-themes/cayman@v0.2.0
 # theme: jekyll-theme-slate
 plugins:
