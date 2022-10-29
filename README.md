@@ -1,26 +1,29 @@
 <html>
- <body>
-  <div>
-   Hi! I'm a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
-  </div>
-  <div>
-   ![Project 1: Boston University Class, Credit, and Section Searcher](https://github.com/ethanc-ec/ScheduleHub)
-   <dl>
-    <dt>- Created a tool that uses a text based interface to:</dt>
-     <dd>Check the information about a class </dd>
-     <dd>See the Hub credits and numerical credits each class gives</dd>
-     <dd>Check for the available sections/times for lectures and labs/discussions</dd>
-    <dt>Used various packages to scrape information from Boston University’s  course websites</dt>
-* Cleaned scraped information, then sorted and stored it in a persistent storage file
-* Deployed performance changes using persistent storage that reduced process time by up to 99%
-* Used GitHub to automatically run unit tests and test compatibility on Linux and Windows
-</dl>
-
-# [Project 2: DS 100 Technical Guide](https://github.com/langdon/ds-100/tree/cethan-ec_file_jupyter-draft)
-<ul>
-<li>Created a Jupyter Notebook that serves a guide for all students in [DS-100](https://www.bu.edu/academics/cds/courses/cds-ds-100/)</li>
-<li>Explained various functions and their uses cases from Python packages such as [NumPy](https://numpy.org/) and [datascience](http://data8.org/zero-to-data-8/datascience.html)</li>
-</ul>
-</div>
-</body>
+  <body>
+    <div>
+      Hi! I'm a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
+    </div>
+    <div>
+      <a href="https://github.com/ethanc-ec/ScheduleHub">Project 1: Boston University Class, Credit, and Section Searcher</a>
+      <ul>
+        <li>Created a tool that uses a text based interface to:</li>
+        <ul>
+          <li>Check the information about a class </li>
+          <li>See the Hub credits and numerical credits each class gives</li>
+          <li>Check for the available sections/times for lectures and labs/discussions</li>
+        </ul>
+        <li>Used various packages to scrape information from Boston University’s  course websites</li>
+        <li>Cleaned scraped information, then sorted and stored it in a persistent storage file</li>
+        <li>Deployed performance changes using persistent storage that reduced process time by up to 99%</li>
+        <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows</li>
+      </ul>
+    </div>
+    <div>
+      <a href="https://github.com/langdon/ds-100/tree/cethan-ec_file_jupyter-draft">Project 2: DS 100 Technical Guide</a>
+      <ul>
+        <li>Created a Jupyter Notebook that serves a guide for all students in <a href="https://www.bu.edu/academics/cds/courses/cds-ds-100/">DS-100</a></li>
+        <li>Explained various functions and their uses cases from Python packages such as <a href="https://numpy.org/">NumPy</a> and <a href="http://data8.org/zero-to-data-8/datascience.html">datascience</a></li>
+      </ul>
+    </div>
+  </body>
 </html>
