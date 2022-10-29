@@ -1,13 +1,13 @@
-<!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <div>
+    <div class="about-me">
       <h1>About Me</h1>
         Hi! I'm a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
     </div>
-    <div>
+    <div class="projects">
       <h2><a href="https://github.com/ethanc-ec/ScheduleHub">Project 1: Boston University Class, Credit, and Section Searcher</a></h2>
       <ul>
         <li>Created a tool that uses a text based interface to:</li>
@@ -21,8 +21,6 @@
         <li>Deployed performance changes using persistent storage that reduced process time by up to 99%</li>
         <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows</li>
       </ul>
-    </div>
-    <div>
       <h2><a href="https://github.com/langdon/ds-100/tree/cethan-ec_file_jupyter-draft">Project 2: DS 100 Technical Guide</a></h2>
       <ul>
         <li>Created a Jupyter Notebook that serves a guide for all students in <a href="https://www.bu.edu/academics/cds/courses/cds-ds-100/">DS-100</a></li>

@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFDD0;
+}
+
+.about-me {
+    background-color: #FFFDD0;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    float: left;
+}
+
+.projects {
+    background-color: #FFFDD0;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    float: right;
+}
