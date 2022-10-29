@@ -1,5 +1,9 @@
+---
+title: Ethan's Profile
+---
+
 # About Me
-Hi! I'm a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
+Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
 
 # [Project 1: Boston University Class, Credit, and Section Searcher](https://github.com/ethanc-ec/ScheduleHub)
 * Created a tool that uses a text based interface to:
