@@ -1,7 +1,3 @@
----
-title: Ethan's Profile
----
-
 # About Me
 Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
 
