@@ -1,4 +1,3 @@
-# Ethan's Portfolio
 Hi! I'm a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management.
 
 # [Project 1: Boston University Class, Credit, and Section Searcher](https://github.com/ethanc-ec/ScheduleHub)
