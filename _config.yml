@@ -1,7 +1,7 @@
 ---
 name: Ethan's Profile
 
-theme: jekyll-theme-slate
+theme: minima
 
 plugins:
   - jekyll-titles-from-headings
