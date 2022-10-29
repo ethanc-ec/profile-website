@@ -4,6 +4,9 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
 ---
 # Personal Projects
 
+<table>
+  <tr>
+    <td>
 ## [Boston University Course Searcher](https://github.com/ethanc-ec/ScheduleHub)
 * Created a tool that uses a text based interface to:
   * Check the information about a class
@@ -13,8 +16,14 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
 * Cleaned scraped information, then sorted and stored it in a persistent storage file
 * Deployed performance changes using persistent storage that reduced process time by up to 99%
 * Used GitHub to automatically run unit tests and test compatibility on Linux and Windows
-
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
 [ScheduleHub Screenshot](assets/img/schedulehub.png)
+    </td>
+  </tr>
 
 # Work Projects
 
