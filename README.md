@@ -32,7 +32,7 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
     <td style="border: none;">
       <a href="https://github.com/langdon/ds-100/tree/cethan-ec_file_jupyter-draft" target="_blank" rel="noopener noreferrer"><h2>DS 100 Technical Guide</h2></a>
       <ul>
-        <li>Created a Jupyter Notebook that serves a guide for all students in <a href="https://www.bu.edu/academics/cds/courses/cds-ds-100/">DS-100</a></li>
+        <li>Created a Jupyter Notebook that serves as a guide for all students in <a href="https://www.bu.edu/academics/cds/courses/cds-ds-100/">DS-100</a></li>
         <li>Explained various functions and their uses cases from Python packages such as <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">NumPy</a> and <a href="http://data8.org/zero-to-data-8/datascience.html" target="_blank" rel="noopener noreferrer">datascience</a></li>
       </ul>
     </td>
