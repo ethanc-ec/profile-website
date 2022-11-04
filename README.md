@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management. My interests are software developement, machine learning, and spending 3 hours to automate a three second task. 
+Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science and minoring in Business Administration & Management. My interests are software developement, machine learning, and spending 3 hours to automate a three second task. Additionally, I'm skilled at Python, data analysis and webscraping.
 
 ---
 # Personal Projects
@@ -16,7 +16,7 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
         </ul></li>
         <li>Used various packages to scrape information from Boston University’s course websites</li>
         <li>Cleaned scraped information, then sorted and stored it in a persistent storage file</li>
-        <li>Deployed performance changes using persistent storage that reduced process time by up to 99%</li>
+        <li>Deployed performance changes using persistent storage and multithreading that reduced fetch time by up to 99%</li>
         <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows</li>
       </ul>
     </td>
