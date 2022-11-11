@@ -14,10 +14,9 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
           <li>See the Hub credits and numerical credits each class gives</li>
           <li>Check for the available sections/times for lectures and labs/discussions</li>
         </ul></li>
-        <li>Used various packages to scrape information from Boston University’s course websites</li>
         <li>Cleaned scraped information, then sorted and stored it in a persistent storage file</li>
-        <li>Deployed performance changes using persistent storage and multithreading that reduced fetch time by up to 99%</li>
-        <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows</li>
+        <li>Used persistent storage, caching, and multithreading to reduce fetch time by up to 99%</li>
+        <li>Ran unit tests and tested compatibility with Linux and Windows using GitHub</li>
       </ul>
     </td>
     <td style="border: none;">
