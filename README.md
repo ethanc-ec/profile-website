@@ -8,15 +8,10 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
     <td style="border: none;">
       <a href="https://github.com/ethanc-ec/ScheduleHub" target="_blank" rel="noopener noreferrer"><h2>Boston University Course Searcher</h2></a>
       <ul>
-        <li>Created a tool that uses a text based interface to:
-        <ul>
-          <li>Check the information about a class</li>
-          <li>See the Hub credits and numerical credits each class gives</li>
-          <li>Check for the available sections/times for lectures and labs/discussions</li>
-        </ul></li>
-        <li>Cleaned website data, then sorted and stored it in a persistent storage file</li>
-        <li>Used persistent storage, caching, and multithreading to reduce fetch time by up to 99%</li>
-        <li>Ran unit tests and tested compatibility with Linux and Windows using GitHub</li>
+        <li>Used 10 different packages to scrape and clean  information from Boston University’s course websites</li>
+        <li>Cleaned scraped information, then sorted and stored nearly 5000 entries into a persistent storage file to prevent constant requests, reducing search time by 99% (25 seconds to 0.0086 seconds)</li>
+        <li>Deployed performance changes using multithreading that reduced process time by 92% (80 minutes to 6 minutes)</li>
+        <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows and different Python versions</li>
       </ul>
     </td>
     <td style="border: none;">
