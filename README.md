@@ -9,7 +9,7 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
       <a href="https://github.com/ethanc-ec/ScheduleHub" target="_blank" rel="noopener noreferrer"><h2>Boston University Course Aggregator</h2></a>
       <ul>
         <li>Scraped and cleaned information from Boston University’s course website, then stored nearly 5000 entries into a persistent storage file to prevent constant requests, reducing fetch time by 99% (25 seconds to 0.0086 seconds)</li><br>
-        <li>Deployed performance changes using multithreading that reduced process time by 92% (80 minutes to 6 minutes), and persistent HTTP connections to reduce search time by 52% (46 seconds to 22 seconds)</li><br>
+        <li>Deployed performance changes using multiprocessing that reduced process time by 92% (80 minutes to 6 minutes), and persistent HTTP connections to reduce search time by 52% (46 seconds to 22 seconds)</li><br>
         <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows and different Python versions</li><br>
       </ul>
     </td>
