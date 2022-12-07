@@ -6,12 +6,11 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <a href="https://github.com/ethanc-ec/ScheduleHub" target="_blank" rel="noopener noreferrer"><h2>Boston University Course Searcher</h2></a>
+      <a href="https://github.com/ethanc-ec/ScheduleHub" target="_blank" rel="noopener noreferrer"><h2>Boston University Course Aggregator</h2></a>
       <ul>
-        <li>Used 10 different packages to scrape and clean  information from Boston University’s course websites</li><br>
-        <li>Cleaned scraped information, then sorted and stored nearly 5000 entries into a persistent storage file to prevent constant requests, reducing search time by 99% (25 seconds to 0.0086 seconds)</li><br>
-        <li>Deployed performance changes using multithreading that reduced process time by 92% (80 minutes to 6 minutes)</li><br>
-        <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows and different Python versions</li>
+        <li>Scraped and cleaned information from Boston University’s course website, then stored nearly 5000 entries into a persistent storage file to prevent constant requests, reducing fetch time by 99% (25 seconds to 0.0086 seconds)</li><br>
+        <li>Deployed performance changes using multithreading that reduced process time by 92% (80 minutes to 6 minutes), and persistent HTTP connections to reduce search time by 52% (46 seconds to 22 seconds)</li><br>
+        <li>Used GitHub to automatically run unit tests and test compatibility on Linux and Windows and different Python versions</li><br>
       </ul>
     </td>
     <td style="border: none;">
